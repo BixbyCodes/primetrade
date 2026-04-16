@@ -38,8 +38,8 @@ npm run dev   # development
 npm start     # production
 ```
 
-Server runs at: `http://localhost:5000`
-Swagger docs: `http://localhost:5000/api-docs`
+Server runs at: http://localhost:5001
+Swagger docs: http://localhost:5001/api-docs
 
 ### Frontend Setup
 
