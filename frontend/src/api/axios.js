@@ -21,7 +21,7 @@
 import axios from "axios";
 
 const api = axios.create({
- baseURL: "http://localhost:5001/api/v1", // ✅ correct backend URL
+  baseURL: "https://primetrade-backend-bwdc.onrender.com/api/v1",
   timeout: 10000,
 });
 
